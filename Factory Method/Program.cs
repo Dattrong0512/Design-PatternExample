@@ -12,7 +12,7 @@ public interface ITransport
 
 public class Ship : ITransport
 {
-    public void Transport() => Console.WriteLine("Ship are transporting");
+    public void Transport() => Console.WriteLine("Ship are transporting ");
 }
 
 public class Truck : ITransport
