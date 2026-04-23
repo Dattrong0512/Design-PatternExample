@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Abstract Factory/Abstract Factory.csproj" />
+  <Project Path="Factory Method/Factory Method.csproj" />
+</Solution>
