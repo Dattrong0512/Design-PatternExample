@@ -93,6 +93,7 @@ public class Furniture
 
     public void Init()
     {
+        Console.WriteLine("Furniture init");
         chair.Init();
         table.Init();
     }
